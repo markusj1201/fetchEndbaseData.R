@@ -11,14 +11,20 @@ Team: Jeremy Eade, Martk Nations, Annie Truong, Bao Tran, Nolan Barratt
 Development:
 
 AI Driven Development
+
 Intelligent Capital Forecasting
+
 Execution
+
 AI Driven Drilling
 Operations
 Well Performance and Production
+
 Autocoding
+
 ETX Hung Dump Valv Alerts
 Work Study Analysis and Tool
+
 Auto Productivity Index
 Kelvin Assesment
 Well Evaluation Tool for Artificial Lift Exchange
