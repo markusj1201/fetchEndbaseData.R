@@ -1,12 +1,15 @@
 Data science & analytics group project:
 
 Jeremy Eade: Data Scientist & PM.
+
 Mark Nations: Optimization Developer & Team Lead AI/ML/DL Engineer (& ResidentPythonista.)
+
 Team: Jeremy Eade, Martk Nations, Annie Truong, Bao Tran, Nolan Barratt
 05/07/2019
 
 
-Development
+Development:
+
 AI Driven Development
 Intelligent Capital Forecasting
 Execution
